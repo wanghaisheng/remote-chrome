@@ -15,9 +15,9 @@ jobs:
     runs-on: Windows-latest
  
     steps:
-    - uses: actions/checkout@v2
-    - name: chrome Setup
-      run: ./setup-chrome.ps1
+    - uses: actions/checkout@v4
+    # - name: chrome Setup
+    #   run: ./setup-chrome.ps1
     - name: remote Setup
       run: ./setup-remote.ps1      
     - name: Starting CRD
