@@ -1,7 +1,4 @@
-# subscribe chanel youtube : EKLESIA TOP  (biar berkah )
-# link subscribe http://bit.ly/EklesiaTop
-# BILA github ERROR update link ada di kolom diskripsi
-# waiting  SUBSCRIBE  EKLESIA TOP
+update chrome file path
 
 ### Option 1 (Easiest way 🚑- No sound) 
 
